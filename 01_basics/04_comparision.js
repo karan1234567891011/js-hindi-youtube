@@ -19,3 +19,5 @@ console.log(undefined < 0);
 // === 
 
 console.log("2" === 2);
+
+// see pause section at https://youtu.be/giP2uXMlv4c?si=gPkgE0YTQuuip7nC&t=261 
