@@ -68,15 +68,15 @@ console.log(gameCounter);
 // https://tc39.es/ecma262/multipage/abstract-operations.html#sec-type-conversion
 // Return type of variables in JavaScript
 //1) Primitive Datatypes
-       Number => number
-       String  => string
-       Boolean  => boolean
-       null  => object
-       undefined  =>  undefined
-       Symbol  =>  symbol
-       BigInt  =>  bigint
+//       Number => number
+  //     String  => string
+    //   Boolean  => boolean
+      // null  => object
+      // undefined  =>  undefined
+      // Symbol  =>  symbol
+      // BigInt  =>  bigint
 
 //2) Non-primitive Datatypes
-       Arrays  =>  object
-       Function  =>  function
-       Object  =>  object
+       //Arrays  =>  object
+       //Function  =>  function
+       //Object  =>  object
