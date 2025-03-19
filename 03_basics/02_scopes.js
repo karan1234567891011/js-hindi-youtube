@@ -56,3 +56,12 @@ addTwo(5)
 const addTwo = function(num){
     return num + 2
 }
+
+/*order of this matters 
+addTwo(5)
+const addTwo = function(num){
+    return num + 2
+    and
+const addTwo = function(num){
+    return num + 2
+     addTwo(5)*/
